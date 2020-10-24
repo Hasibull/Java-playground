@@ -1,6 +1,4 @@
 
-package Codeforces;
-
 import java.util.Scanner;
 
 public class B_1433 {
