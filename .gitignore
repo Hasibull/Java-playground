@@ -7,5 +7,7 @@
 *.js
 *.properties
 *.mf
+*.html
+*.css
 *.xml
 /OOP using Java/build/
