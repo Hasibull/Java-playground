@@ -7,7 +7,12 @@
 *.js
 *.properties
 *.mf
+*.html
+*.css
 *.xml
 /OOP using Java/build/
+<<<<<<< HEAD
 /CollegeManagementSystem/nbproject/private/
 /CollegeManagementSystem/build/
+=======
+>>>>>>> aeec4ff38854b27666f326c96d83cbac498221af
