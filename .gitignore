@@ -9,3 +9,5 @@
 *.mf
 *.xml
 /OOP using Java/build/
+/CollegeManagementSystem/nbproject/private/
+/CollegeManagementSystem/build/
